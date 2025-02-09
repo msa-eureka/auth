@@ -1,0 +1,3 @@
+###
+GET http://localhost:19095/auth/signIn?
+    user_id=aaa
